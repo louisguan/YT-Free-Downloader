@@ -7,7 +7,8 @@
 這是一款專為 Windows 使用者設計的、擁有現代化圖形介面 (GUI) 的影片下載工具。它基於強大的命令列工具 `yt-dlp` 進行封裝，讓任何人都能輕鬆、直觀地從數百個網站下載影片和音訊，無需記憶任何複雜的指令。
 
 <!-- 請將此處的截圖換成您程式的實際執行畫面 -->
-![應用程式截圖](<img width="800" height="841" alt="image" src="https://github.com/user-attachments/assets/96a573df-9059-42e9-8185-72931a7b5fd6" />) 
+<img width="800" height="841" alt="image" src="https://github.com/user-attachments/assets/1c383992-21e8-4fd2-86fe-d7058f15311d" />
+
 
 ## ✨ 主要功能
 
